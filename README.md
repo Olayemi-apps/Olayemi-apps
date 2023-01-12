@@ -15,7 +15,7 @@
   <a href="https://github.com/Olayemi-apps/frontend_Jordan">
   <img alt="HTML"     src="https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;"> </a>
   
-   <a href="https://github.com/Olayemi-apps">
+   <a href="https://github.com/Olayemi-apps/electric-cars-dashboard">
   <img alt="Python"     src="https://camo.githubusercontent.com/808dfd4514d73d808f2a42e033ec59d350a25356be62824be52e3b258afeb5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26.svg?logo=python&amp;logoColor=white" style="max-width: 100%;"> </a>
   
   <a href="https://github.com/Olayemi-apps">
