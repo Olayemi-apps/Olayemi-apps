@@ -25,17 +25,47 @@
   
   <a href="https://github.com/Olayemi-apps">
   <img alt="SQL"     src="https://camo.githubusercontent.com/4ed1fe3ec872f44fe743932bcf4eb6d18ad8568e8d6d19e16d8d96864f6acd33/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" style="max-width: 100%;"></a>
-  
- </p>
- 
+ <br>
+ <br>
+ <br>
  <br>
  <b>:door:Frameworks/Libraries</b>:
  <br>
  <br>
- 
- <p>
-   <a href="https://github.com/Olayemi-apps">
+
+   <a href="https://github.com/Olayemi-apps/electric-cars-co">
   <img alt="Bootstrap" src="https://camo.githubusercontent.com/bc050eb2d16bdd3fc50eef513cf1717ddbafa51a311312ada6b8c49a48632731/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242332e7376673f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+   <a href="https://github.com/Olayemi-apps/">
+  <img alt="Flask" src="https://camo.githubusercontent.com/b4182ea1ed28da74d9056a8e8e531aac9d308ae393dc5ad1ba3ae27412459291/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030302e7376673f6c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="NumPy" src="https://camo.githubusercontent.com/9dda0e62ed6ae858c705b3c0f0c09c72885852f974cb6c64416abdd96c66dc79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3031333234332e7376673f6c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="Pandas" src="https://camo.githubusercontent.com/f48049f904b966df3dbca638e59e8528c7546d2f29f608e9283031d9c99c501b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435382e7376673f6c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+   <br>
+ <br>
+ <br>
+ <br>
+ <b>:door:Database/Cloud</b>:
+ <br>
+ <br>
+
+  <a href="#">
+<img alt="Heroku" src="https://camo.githubusercontent.com/fc85f51b2ea80feabeac5903668ca75834070b1e571df743cc5fd4e543859648/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039382e7376673f6c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="MySQL" src="https://camo.githubusercontent.com/dd23a25bf25843bfc44c14f7d3d5e408c6e7496356250a141ef978b58839e844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="PostgreSQL" src="https://camo.githubusercontent.com/7d32d4d36e9824a8568fd2be4387917c3eb424a3be2552b2548e06eaa3e922df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139322e7376673f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="Render" src="https://camo.githubusercontent.com/efab51808412630c10e8e287e0fd3e63ac6be04a5b30c43c28d84372361a6a63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656e6465722d3030393739442e7376673f6c6f676f3d72656e646572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Render-00979D.svg?logo=render&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  
   
  </p>
  
