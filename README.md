@@ -27,11 +27,10 @@
   <img alt="SQL"     src="https://camo.githubusercontent.com/4ed1fe3ec872f44fe743932bcf4eb6d18ad8568e8d6d19e16d8d96864f6acd33/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" style="max-width: 100%;"></a>
  <br>
  <br>
- <br>
- <br>
  <b>:door:Frameworks/Libraries</b>:
  <br>
  <br>
+
 
    <a href="https://github.com/Olayemi-apps/electric-cars-co">
   <img alt="Bootstrap" src="https://camo.githubusercontent.com/bc050eb2d16bdd3fc50eef513cf1717ddbafa51a311312ada6b8c49a48632731/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242332e7376673f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -45,13 +44,19 @@
   <a href="#">
    <img alt="Pandas" src="https://camo.githubusercontent.com/f48049f904b966df3dbca638e59e8528c7546d2f29f608e9283031d9c99c501b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435382e7376673f6c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
   
-   <br>
- <br>
+  <a href="#">
+    <img alt="Plotly" 
+     src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" style="max-width: 100%;"></a>
+  
  <br>
  <br>
  <b>:door:Database/Cloud</b>:
  <br>
  <br>
+  
+  <a href="#">
+    <img alt="AWS" 
+     src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;"></a>
 
   <a href="#">
 <img alt="Heroku" src="https://camo.githubusercontent.com/fc85f51b2ea80feabeac5903668ca75834070b1e571df743cc5fd4e543859648/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039382e7376673f6c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -62,8 +67,28 @@
   <a href="#">
    <img alt="PostgreSQL" src="https://camo.githubusercontent.com/7d32d4d36e9824a8568fd2be4387917c3eb424a3be2552b2548e06eaa3e922df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139322e7376673f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a>
   
-  <a href="#">
+  <a href="https://github.com/Olayemi-apps/nike-dashboard">
    <img alt="Render" src="https://camo.githubusercontent.com/efab51808412630c10e8e287e0fd3e63ac6be04a5b30c43c28d84372361a6a63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656e6465722d3030393739442e7376673f6c6f676f3d72656e646572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Render-00979D.svg?logo=render&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="SQLite" src="https://camo.githubusercontent.com/6fbd93d00f0db1f1eebf3b906ca9bb34d5c5e22241bc19f5a9a156e7a469e640/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035652e7376673f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&amp;logoColor=white" style="max-width: 100%;"></a>
+ <br>
+ <br>
+ <b>:floppy_disk:Additional Software/Tools</b>:
+ <br>
+ <br>
+
+   <a href="#">
+    <img alt="Jupyter" src="https://camo.githubusercontent.com/4fdc7fc007e28e85b6d2c973300205839144be47e77831923d762560089fa97a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f6c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="Git" src="https://camo.githubusercontent.com/b957ad4a7456b1ed2ddea1f1e5d7789b1df3c8c5bbcf9427775b0ccad8e0c200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05033.svg?logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="Photopea" src="https://camo.githubusercontent.com/aa9495f836175dfc514ed082238c884a6aedc3c962b7db696a463deae19bb3c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50686f746f7065612d3138413439373f6c6f676f3d70686f746f706561266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+  <a href="#">
+   <img alt="Stack Overflow" src="https://camo.githubusercontent.com/26e24924e6b305b420fe35cac175ab285d3d9faa7facd26e8a98c1f4256f768d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
   
   
   
