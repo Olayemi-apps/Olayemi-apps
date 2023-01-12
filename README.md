@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @Olayemi-apps
-- 👀 I’m interested in Data Visualisation and using Python, Dash Plotly, Cloud Services and the Django Framework
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=1A1A1A&width=435&lines=Data+Visualisation+and+Web+Specialist;Python+based+Frameworks+Dash+Plotly+and+Django;Cloud+Services+AWS)](https://git.io/typing-svg)
+- 👀 Data Visualisation and using Python, Dash Plotly, Cloud Services and the Django Framework
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olayemi-apps)](https://git.io/streak-stats)
+
 
