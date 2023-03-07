@@ -6,7 +6,7 @@
 <summary><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji><b>Working With:</b>
  </summary>
  
- <img align="right" alt="GIF" src="https://github.com/Olayemi-apps/Olayemi-apps.github.io/blob/c8910b018ec196de7de6f938f8864ae6b87cb5a0/images/data_engineer_byV_B.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Olayemi-apps/frontend_Jordan/master/img/dataEng.webp?raw=true" width="500" height="320" />
 
  <b>:computer:Programming/Markup Languages</b>.
  <br>
