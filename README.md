@@ -42,6 +42,10 @@
   
   <a href="#">
    <img alt="Pandas" src="https://camo.githubusercontent.com/f48049f904b966df3dbca638e59e8528c7546d2f29f608e9283031d9c99c501b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435382e7376673f6c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
+ 
+ <a href="#">
+    <img alt="Django" 
+     src="https://img.shields.io/badge/Django-%233F4F75.svg?style=for-the-badge&logo=django&logoColor=white" style="max-width: 100%;"></a>
   
   <a href="#">
     <img alt="Plotly" 
