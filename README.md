@@ -1,10 +1,12 @@
 
 - 👋 Hi, I’m @Olayemi-apps
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=1A1A1A&width=435&lines=Data+Visualisation+and+Web+Specialist;Cloud+Services+AWS)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=1A1A1A&width=435&lines=Data+Visualisation+and+Cloud/Web+Specialist)](https://git.io/typing-svg)
 - 👀 Data Engineer specialising in Visualisation / ETL Pipelines, Dash Plotly, Cloud Services - AWS
 
 <summary><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji><b>Working With:</b>
  </summary>
+ 
+ <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 <br>
  <b>:computer:Programming/Markup Languages</b>.
  <br>
