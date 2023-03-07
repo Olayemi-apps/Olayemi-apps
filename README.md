@@ -61,11 +61,6 @@
   <a href="#">
    <img alt="Heroku" src="https://camo.githubusercontent.com/fc85f51b2ea80feabeac5903668ca75834070b1e571df743cc5fd4e543859648/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039382e7376673f6c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&amp;logoColor=white" style="max-width: 100%;"></a>
   
-  
-<a href="#">
-    <img alt="AWS" 
-     src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" style="max-width: 100%;"></a>
-  
   <a href="#">
    <img alt="MySQL" src="https://camo.githubusercontent.com/dd23a25bf25843bfc44c14f7d3d5e408c6e7496356250a141ef978b58839e844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
   
