@@ -1,7 +1,8 @@
 
+ 
 - 👋 Hi, I’m @Olayemi-apps
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=1A1A1A&width=435&lines=Data+Visualisation+and+Cloud/Web+Specialist)](https://git.io/typing-svg)
-- 👀 Data Engineer specialising in Visualisation / ETL Pipelines, Dash Plotly, Cloud Services - AWS
+- 👀 I'm a data engineer specializing in visualization/ETL pipelines, Dash Plotly, and cloud services (AWS). I'm passionate about leveraging data to drive business insights and make informed decisions.
 
 <summary><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji><b>Working With:</b>
  </summary>
@@ -94,11 +95,8 @@
   
   <a href="#">
    <img alt="Stack Overflow" src="https://camo.githubusercontent.com/26e24924e6b305b420fe35cac175ab285d3d9faa7facd26e8a98c1f4256f768d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
-  
-  
-  
+   
  </p>
- 
 
 
 
