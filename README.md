@@ -2,7 +2,8 @@
  
 - 👋 Hi, I’m @Olayemi-apps
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=1A1A1A&width=435&lines=Data+Engineer+and+Cloud/Web+Specialist)](https://git.io/typing-svg)
-- 👀 I'm a data engineer specializing in visualization/ETL pipelines, Dash Plotly, and cloud services (AWS). I'm passionate about leveraging data to drive business insights and make informed decisions.
+- 👀 I'm a data engineer specializing in visualization/ETL pipelines, Dash Plotly, and cloud services (AWS/Azure). I'm passionate about leveraging data to drive business insights and make informed decisions.
+- 👀 Also a dedicated Frontend/UX expert - Developing stunning webapps
 
 <summary><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji><b>Working With:</b>
  </summary>
