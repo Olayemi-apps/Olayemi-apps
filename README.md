@@ -11,6 +11,9 @@ Seasoned data professional with a focus on database design, data modeling, and b
 * 🤝  I'm open to collaborating on Data Engineering - ETL Projects | Frontend Development Projects | Data Visualisation
 * ⚡  Interested in building customized remote control cars
 
+# 📊 GitHub Language Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olayemi-apps&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 💻 Tech Stack:
 
 # :cloud: **Platforms**
@@ -43,7 +46,6 @@ Seasoned data professional with a focus on database design, data modeling, and b
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Olayemi-apps&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olayemi-apps&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Olayemi-apps&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
