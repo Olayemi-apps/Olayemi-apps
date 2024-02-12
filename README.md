@@ -1,4 +1,4 @@
-<h3 align="center">Data Engineer / Web Specialist</h3>
+<h1 align="center">Data Engineer | Web Specialist</h1>
 
 Hello 👋
 
